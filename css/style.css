@@ -1,3 +1,35 @@
+/* Global */
 
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0; 
+    text-align: center;
+    
+}
+
+
+button {
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px; 
+    border-radius: 15px;
+    border: none;
+    background: gold;
+    color: #ffff;
+    cursor: pointer;
+}
+
+
+.container {
+    display: flex; 
+    justify-content: space-evenly;
+    margin: 20px 0; 
+}
 
 /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
