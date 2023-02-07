@@ -213,4 +213,29 @@ button {
     font-size: 15px; 
 }
 
+
+/*Footer*/
+
+
+.footer {
+    height: 20%; 
+    width: 100%;
+    position: relative;
+}
+
+
+.footer-txt {
+    position: absolute;
+    left: 10%; 
+    top: 60%;
+    font-size: 15px; 
+}
+
+
+.page-footer {
+    padding: 20px 0 0 0;  
+    font-size: 20px; 
+}
+
+
 /*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
